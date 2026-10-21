@@ -1,11 +1,11 @@
 {
   "version": "2.0.3",
-  "url": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v2.0.3/EveryThingDownloader-Setup-2.0.3.exe",
+  "url": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.3/MeikovaHarvest-Setup-2.0.3.exe",
   "platforms": {
-    "win32": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v2.0.3/EveryThingDownloader-Setup-2.0.3.exe",
-    "darwin_arm64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v2.0.3/EveryThingDownloader-2.0.3-arm64.dmg",
-    "darwin_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v2.0.3/EveryThingDownloader-2.0.3-x64.dmg",
-    "linux_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v2.0.3/EveryThingDownloader-2.0.3-x64.AppImage"
+    "win32": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.3/MeikovaHarvest-Setup-2.0.3.exe",
+    "darwin_arm64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.3/MeikovaHarvest-2.0.3-arm64.dmg",
+    "darwin_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.3/MeikovaHarvest-2.0.3-x64.dmg",
+    "linux_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.3/MeikovaHarvest-2.0.3-x64.AppImage"
   },
-  "changelog": "Phiên bản mới nhất v2.0.3 đã được phát hành tự động. Xem chi tiết tại mục Releases trên GitHub."
+  "changelog": "Phiên bản phát hành tự động qua quy trình CI/CD. Chi tiết xem tại mục Releases trên GitHub."
 }
