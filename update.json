@@ -1,11 +1,11 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.5/MeikovaHarvest-Setup-2.0.5.exe",
+  "version": "2.0.6",
+  "url": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.6/MeikovaHarvest-Setup-2.0.6.exe",
   "platforms": {
-    "win32": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.5/MeikovaHarvest-Setup-2.0.5.exe",
-    "darwin_arm64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.5/MeikovaHarvest-2.0.5-arm64.dmg",
-    "darwin_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.5/MeikovaHarvest-2.0.5-x64.dmg",
-    "linux_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.5/MeikovaHarvest-2.0.5-x64.AppImage"
+    "win32": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.6/MeikovaHarvest-Setup-2.0.6.exe",
+    "darwin_arm64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.6/MeikovaHarvest-2.0.6-arm64.dmg",
+    "darwin_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.6/MeikovaHarvest-2.0.6-x64.dmg",
+    "linux_x64": "https://github.com/Meikova/meikova-harvest-tool/releases/download/v2.0.6/MeikovaHarvest-2.0.6-x64.AppImage"
   },
-  "changelog": "Phien ban moi nhat v2.0.5 da duoc phat hanh tu dong. Chi tiet xem tai muc Releases tren GitHub."
+  "changelog": "Phien ban moi nhat v2.0.6 da duoc phat hanh tu dong. Chi tiet xem tai muc Releases tren GitHub."
 }
